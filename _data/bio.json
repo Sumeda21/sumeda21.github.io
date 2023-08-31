@@ -10,21 +10,19 @@
     "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "sumeda21", "url": "https://sumeda21.github.io" },
-      { "network": "linkedin", "username": "sean umeda", "url": "linkedin.com/in/sean-umeda-789813289" },
-      { "network": "gmail", "username": "mollyma", "url": "seankumeda@gmail.com" },
+      { "network": "linkedin", "username": "sean umeda", "url": "www.linkedin.com/in/sean-umeda-789813289" },
+      { "network": "gmail", "username": "mollyma", "url": "mailto:seankumeda@gmail.com" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Design" },
+    { "name": "Machine Learning" },
+    { "name": "Cryptography" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "HTML", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
