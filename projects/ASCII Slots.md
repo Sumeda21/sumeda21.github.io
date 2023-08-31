@@ -20,7 +20,7 @@ summary: "A fun little project I created in ICS 111 after a TA showed me the run
 
     From the development and completion of this assignment, there were many things I learned. I learned how to use methods as well as how to create a loop which doesn't execute infinitely. I also learned what ASCII symbols were as well as how to use them to create ASCII "art". When looking over this code almost a year later, I can definitely see ways to improve my code, which make this project that much more meaningful. While it is a functioning program, I saw that there are always ways to optimize it, an important lesson for computer science.
 
-The code I wrote for an ASCII slot machine:
+The code I wrote for the ASCII slot machine:
 
 ```cpp
  System.out.println("=====================");                         //Print statement to draw slots with the symbols
