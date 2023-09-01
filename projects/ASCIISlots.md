@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/white-slots.jpg
 title: "ASCII Slots"
 date: 2022
 published: true
@@ -10,11 +10,8 @@ labels:
 summary: "A fun little project I created in ICS 111 after a TA showed me the running program."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+  <img src="img/Screenshot 2023-08-31 152833.png" class="img-thumbnail" >
+
 
 This simple slot ASCII slot machine was the very first project, that was not an required assignment, that I had written in my coding career. I wrote this program after a TA showed me the running program and I decided to recreate the program with my own tweaks. While this isn't exactly a huge project, it was extremely fun to write and acted as a gateway to my code learning experience. 
 
