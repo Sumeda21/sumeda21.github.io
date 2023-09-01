@@ -7,7 +7,7 @@ date: 2022
 published: true
 labels:
   - Java
-summary: "A project I wrote for an ICS 211 assisngment that was difficult and interesting to write."
+summary: "A project I wrote for an ICS 211 assignment that was difficult and interesting to write."
 ---
 
   <img width="200px" src="../img/Screenshot 2023-08-31 153041.png" alt="Sudoku program result" >
