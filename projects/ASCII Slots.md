@@ -35,4 +35,4 @@ The code I wrote for the ASCII slot machine:
          System.out.println("=====================\n");
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Look at the source code here : https://github.com/Sumeda21/Projects/tree/main
