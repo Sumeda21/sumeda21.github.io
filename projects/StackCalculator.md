@@ -1,20 +1,17 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/white-calc.png
 title: "Stack Calculator"
 date: 2022
 published: true
 labels:
   - Java
-summary: "A project I wrote for an ICS 211 assisngment using a stack to create a calculator"
+summary: "A project I wrote for an ICS 211 assignment using a stack to create a calculator"
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+  <img width="200px" src="..img/Screenshot 2023-08-31 153006.png" alt="Stack calculator code" >
+
 
 In this project I implemented is a stack which functioned as a calculator. Numbers are inputted one by one, and if an operand is input, it is operated on the top 2 numbers in the stack. I wrote and implemented all of the code for the Stack calculator. Although the calculator isn't as advanced as it can be, the use of stacks as well as the use of code which catches edge cases helps to show my development in coding.
 
