@@ -10,7 +10,7 @@ labels:
 summary: "A fun little project I created in ICS 111 after a TA showed me the running program."
 ---
 
-  <img src="../img/Screenshot 2023-08-31 152833.png" alt="Slots program running" >
+  <img width="250px" src="../img/Screenshot 2023-08-31 152833.png" alt="Slots program running" >
 
 
 This simple slot ASCII slot machine was the very first project, that was not an required assignment, that I had written in my coding career. I wrote this program after a TA showed me the running program and I decided to recreate the program with my own tweaks. While this isn't exactly a huge project, it was extremely fun to write and acted as a gateway to my code learning experience. 
