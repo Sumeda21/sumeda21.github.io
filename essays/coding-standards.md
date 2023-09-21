@@ -9,10 +9,13 @@ labels:
   - Computer programming - JavaScipt - ESLint -CodeStyle
 ---
 ## That Green Checkmark
-I will be honest, as of now, my coding experience doesn’t go too far. I’ve done what the classes I’ve taken have required of me, but I haven’t branched out or gone much further that I could be. To be fair though, I am only about a year into starting coding, and I’m still not entirely sure if this is the path I want to pursue. 
-There are a few factors that make me want to stay. I love problem solving and the rush you get when you solve a hard problem you’ve been working on. I’ve also started to realize the large number of different directions I could take this career into. This is especially true since society is becoming increasingly more reliant on technology and the possibilities just keep expanding.
+I recently started using IntelliJ to code in Javascript, creating github repositories and connecting them online. As these tasks were all quite new to me, it took some time to get it all figured out. Of all the different things I did, the most interesting was when I started using ESLint, a code quality and style checker. When using it, it not only checked for the integrity of the code, but also the format and spacing of the code using a green checkmark to indicate the code was all good.
 
-## My interests
-After taking some time to think, my current main interests in programming are leaned towards game design, machine learning and cryptography. I’ve loved video games since a child and still play from time to time. It would be a dream to work on a game I played as a child. As machine learning has recently started getting popular with the uses are growing, this is a path I am considering following. The thought of creating something that can “think” on its own sounds super fun and challenging. Finally, cryptography is not my biggest interest but after getting an intro during my ICS 241 course, understanding encryption, especially in a society where data security is so important, seems like an important skill to obtain.
+## My first experience with ESLint
+ESLint was quite different to the previous code checker I used in Eclipse, granted it was just a checkstyle. As my only previous experience was with checkstyle, a code checker which only checks for code integrity, I found myself surprised at the amount of errors in such simple code. For example, a “Hello World” had to be changed to ‘Hello World’, from double quotes to single quotes! I soon learned about all the different errors, such as incorrect spacing and braces, something I never truly thought about previously. While I kept my code clean, it was not to this crazy amount of detail.
 
-## Thoughts for the future
+## My thoughts on ESLint
+Using ESLint was both rewarding and frustrating due to that green checkmark. To test my code, I would need to get that green checkmark, which made testing the actual code harder. To test if the program worked, I would need to go through my code and make sure each line was written with the correct code style or else it wouldn’t pass ESLint. While this may help some learn coding standards and get used to it, as I already have a code style I am familiar with, this felt like something I didn’t really need to do. 
+
+## Final Thoughts
+I do think having good coding standards is extremely important, despite my negative comment about ESLint. It is important not only when you are sharing code and collaborating with others, but also just for yourself. If you can’t read your code quickly and constantly take time to figure out what you have written, it makes the whole process of writing code inefficient. Writing code with a code style checker is both very helpful and sometimes frustrating but overall, it’s very useful!
