@@ -10,6 +10,7 @@ labels:
 ---
 <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt ="" width="200">
 
+
 ## Dipping the toes
 As a complete beginner to the HTML and CSS scene, I quickly found that creating websites is not so easy… kinda. Creating a website with the simplest elements isn’t that much of a struggle as it's all within the barebone basics of HTML and CSS. In the introductory course I used, we made a website with photos, paragraphs, and even an input section! (hooray freeCodeCamp) Of course, applying these concepts in a new HTML file wasn’t all that difficult. The next part however, was much more different.
 
