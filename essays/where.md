@@ -4,7 +4,7 @@ type: essay
 title: "Where am I going?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-8-31
-published: false
+published: true
 labels:
   - Computer programming - AI - Cryptography
 ---
