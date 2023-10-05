@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Where am I going?"
+title: "Websites - Easy or Not?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-8-31
 published: true
