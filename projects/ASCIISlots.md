@@ -3,23 +3,23 @@ layout: project
 type: project
 image: img/white-slots.jpg
 title: "ASCII Slots"
-date: 2022
+date: 2023
 published: true
 labels:
   - Java
 summary: "A fun little project I created in ICS 111 after a TA showed me the running program."
 ---
 
-  <img width="250px" src="../img/Screenshot 2023-08-31 152833.png" alt="Slots program running" >
+  <img width="400px" src="../img/Screenshot 2023-08-31 152833.png" alt="Slots program running" >
 
 
-This simple slot ASCII slot machine was the very first project, that was not an required assignment, that I had written in my coding career. I wrote this program after a TA showed me the running program and I decided to recreate the program with my own tweaks. While this isn't exactly a huge project, it was extremely fun to write and acted as a gateway to my code learning experience. 
+This simple slot ASCII slot machine was the very first project, that was not an required by the class, that I had written in my coding career. During a recitation for my ICS 111 class, our TA showed us a slot machine created with ASCII symbols and simple codes. Although he didn't show us the source code, I was immediately interested and wanted to make it myself. To do this, I created the ASCII slot machine which took quite a long time, and coded its using while loops and if statements. I created my own way of manipulating the odds of each slots symbol which was also a quite interesting thing to do. 
 
-From the development and completion of this assignment, there were many things I learned. I learned how to use methods as well as how to create a loop which doesn't execute infinitely. I also learned what ASCII symbols were as well as how to use them to create ASCII "art". When looking over this code almost a year later, I can definitely see ways to improve my code, which make this project that much more meaningful. While it is a functioning program, I saw that there are always ways to optimize it, an important lesson for computer science.
+From the development and completion of this project, there were many things I learned. Not only did I learn how to create cool stuff with ASCII symbols, but I also learned more about myself and my ambition in regards to coding. This was quite early in my coding career when I was only writing code for the sake of assignments, so writing my own successful program which actually produces a fun result was extremely satisfying. Through this project, I was able to learn code AND gain some independence from coding just for my classes.
 
 The code I wrote for the ASCII slot machine:
 
-```cpp
+```
          System.out.println("=====================");                         //Print statement to draw slots with the symbols
          System.out.println("|-------------------|  O");
          System.out.println("|--  SHILL SLOTS  --|  |");
@@ -32,4 +32,4 @@ The code I wrote for the ASCII slot machine:
          System.out.println("=====================\n");
 ```
 
-Look at the source code here : https://github.com/Sumeda21/Projects/tree/main
+Look at the source code here : <a href="https://github.com/Sumeda21/Projects/tree/main">https://github.com/Sumeda21/Projects/tree/main</a>
