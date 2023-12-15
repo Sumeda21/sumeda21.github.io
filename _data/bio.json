@@ -1,0 +1,55 @@
+{
+  "basics": {
+    "name": "Sean Umeda",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/143573201?s=400&u=a95512514fb8d140947900340305fc23f1def5fd&v=4",
+    "email": "sumeda21@hawaii.edu",
+    "phone": "808-367-5456",
+    "website": "https://sumeda21.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I am currently looking to explore game design!",
+    "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "sumeda21", "url": "https://github.com/Sumeda21" },
+      { "network": "linkedin", "username": "sean umeda", "url": "https://linkedin.com/in/sean-umeda-789813289" },
+    ]
+  },
+  "interests": [
+    { "name": "Game Design" },
+    { "name": "Machine Learning" },
+    { "name": "Web Applications" },
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "HTML", " Java", " Javascript", " Python", "React Bootstrap", "C", "C++" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows 10", "SSH", "IntelliJ", "Eclipse"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Academic Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.5 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

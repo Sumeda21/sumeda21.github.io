@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Stack Calculator | Sean Umeda | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/143573201?s=400&u=a95512514fb8d140947900340305fc23f1def5fd&v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Sean Umeda | Professional Portfolio">
+    <meta property="og:url" content="https://sumeda21.github.io/projects/StackCalculator.html">
+    <meta property="og:title" content="Stack Calculator | Sean Umeda | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/143573201?s=400&u=a95512514fb8d140947900340305fc23f1def5fd&v=4">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Stack Calculator | Sean Umeda | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Sean Umeda</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Stack Calculator</h1>
+ <p><img width="400px" src="../img/Screenshot 2023-08-31 153006.png" alt="Stack calculator code" /></p>
+
+<p>For my 211 introductory class, I was tasked with creating a very simple terminal calculator. For this calculator, numbers are inputted one by one, and if an operand is input, it will push the top two elements of the stack and apply the operand to them. I was the sole author of the code, and received no help from my TA or teacher, which helped me confirm that I truly understood the concepts needed to create this stack calculator. Although the calculator isn’t nearly as advanced as a calculator can be, I liked this project as my previous project was more algorithm based, whereas this was one of the first data structure based projects I worked on. As this calculator was implemented using a stack instead of an array, you can see how this is a great learning experience.</p>
+
+<p>Alongside my new understanding of stacks (and linked lists), I also learned an important type of code - Code which checks if there is something wrong. This was my first introduction to Exception and error handling where I wrote code within a try catch statement. It’s quite important for coding when there are lines of code that could potentially break/stop the program, and so understanding how we can prevent crashes and allow the program to keep running or output an easier to read error message is vital to a seamless program.</p>
+
+<p>Below is a snippet of code which shows the use of Exception handling in my stack calculator:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>public void applyOperation(char operation) {
+...
+ try {
+   under = stack.peek();}
+   catch (EmptyStackException e) {
+     stack.push(top);
+     throw new EmptyStackException();
+   }
+...
+</code></pre></div></div>
+
+<p>Again, while this project isn’t the most complex code you can write, in fact its probably one of the easiest, what makes this project so meaningful to me is the new concepts I learned. It was not just about learning about stacks and exception handling, but two new facets of programming. Algorithms and Data structures are a large part of coding, and this was my first dive into data structures, and exception/error handling was one of the first interface related topics I learned about. This project goes to show my development as a software engineer and my ability to see past the obvious and delve deeper.</p>
+
+<p>Source code for my project : <a href="https://github.com/Sumeda21/Projects/tree/main">https://github.com/Sumeda21/Projects/tree/main</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
