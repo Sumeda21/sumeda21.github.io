@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/white-calc.png
 title: "Stack Calculator"
-date: 2022
+date: 2023
 published: true
 labels:
   - Java
