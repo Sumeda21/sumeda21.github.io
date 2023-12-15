@@ -9,7 +9,7 @@ labels:
   - Software Engineering - Coding Standards - Agile project Management
 ---
 
-##ICS 314 and Software Engineering
+## ICS 314 and Software Engineering
 
 As of writing this essay I have basically completed ICS 314, learning all the content taught, with only the final exam left. Throughout the course, I have learned many different things such as Open Source Software Development, Coding Standards, Agile Project Management, and much more. While all of these topics can be seen as the building blocks to creating a web application, it was much more than just that to me. Each of these topics were new to me and helped me move forward as a software engineer. Even the topics which I was familiar with, such as the JavaScript module due to my previous experience in Java, I was tasked with using Underscore and JSFiddle which I had never used before. Essentially, the topics, whether familiar or not, provided me with extremely useful resources and information that can be applied to many aspects of software engineering.
 
