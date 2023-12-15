@@ -22,6 +22,6 @@ For this project, we used Githubs Issue system to allocate tasks to each member.
 
 Our <a href="https://wheres-my-item.github.io/">Project Home Page</a> 
 
-While it can be accesed from the Project Home Page, here is the link to our <a href="https://github.com/orgs/wheres-my-item/repositories"/>Github repositories</a>.
+While it can be accesed from the Project Home Page, here is the link to our <a href="https://github.com/orgs/wheres-my-item/repositories">Github repositories</a>.
 
 Throughout the creation of this project, I was able to see the efforts of all our previous assignments pay off. Everything we had learned prior had led up to this final project of creating a webpage. From creating this webpage, I learned so much about creating websites and managing websites, project development, and project management. What I liked especially about this project was that this is something I never would've done without this class. Looking back at everything I learned, I realized how important this class was, and how every aspect of this project could be applied to future projects. This was truly a great project to work on and to have as a final assessment for this course.
