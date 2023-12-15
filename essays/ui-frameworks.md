@@ -4,7 +4,7 @@ type: essay
 title: "Websites - Easy or Not?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-8-31
-published: true
+published: false
 labels:
   - HTML - CSS - UI Frameworks - Bootstrap 5
 ---
