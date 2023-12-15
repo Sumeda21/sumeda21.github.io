@@ -6,7 +6,7 @@ title: "Where's My Item?"
 date: 2023
 published: true
 labels:
-  - HTML -JavaScript (Meteor) - React Bootstrap CSS - Digital Ocean 
+  - Project Management - Web Application
 summary: "My ICS 314 collaboration project in which we created a web application for Lost and Found items on UH campus."
 ---
 
