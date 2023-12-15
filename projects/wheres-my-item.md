@@ -12,7 +12,7 @@ summary: "My ICS 314 collaboration project in which we created a web application
 
 # Collaborating on a web application
 ## Overview
-This project, Where's My Item, was a project in which I worked with 4 others to develop a web application. This website would emulate a lost and found service through a website. Through this website, visitors will be able to look through lost items that have been found, with a claim option if you find one of your items. There is also an admin login to add items, edit items, and review claim requests as needed. While the website is quite simple, it functions as it should, and I feel the simplicity could help attract users to the website. Below is a picture of our landing page when you initially enter the site:
+This project, Where's My Item, was a project in which I worked with four others to develop a web application. This website would emulate a lost and found service through a website. Through this website, visitors will be able to look through lost items that have been found, with a claim option if you find one of your items. There is also an admin login to add items, edit items, and review claim requests as needed. While the website is quite simple, it functions as it should, and I feel the simplicity could help attract users to the website. Below is a picture of our landing page when you initially enter the site:
 
 <img width="500px" src="../img/home-page.png" alt="Where's My Item Home Page" >
 
