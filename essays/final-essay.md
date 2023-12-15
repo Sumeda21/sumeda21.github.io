@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "My ICS 314 Experience"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-29
-published: false
+date: 2023-12-14
+published: true
 labels:
   - Software Engineering - Coding Standards - Agile project Management
 ---
