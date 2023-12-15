@@ -20,7 +20,7 @@ For this project, we used Githubs Issue system to allocate tasks to each member.
 
 <img width="500px" src="../img/project-board-1.png" alt="Where's My Item Home Page" >
 
-In addition, this is our <a href="https://wheres-my-item.github.io/">Project Home Page</a> 
+Our <a href="https://wheres-my-item.github.io/">Project Home Page</a> 
 
 While it can be accesed from the Project Home Page, here is the link to our <a href="https://github.com/orgs/wheres-my-item/repositories"/>Github repositories</a>.
 
