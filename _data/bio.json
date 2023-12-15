@@ -11,22 +11,21 @@
     "profiles": [
       { "network": "github", "username": "sumeda21", "url": "https://github.com/Sumeda21" },
       { "network": "linkedin", "username": "sean umeda", "url": "https://linkedin.com/in/sean-umeda-789813289" },
-      { "network": "gmail", "username": "seankumeda", "url": "mailto:seankumeda@gmail.com" },
     ]
   },
   "interests": [
     { "name": "Game Design" },
     { "name": "Machine Learning" },
-    { "name": "Cryptography" }
+    { "name": "Web Applications" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "HTML", " Java", " Javascript", " Python" ]
+      "keywords": [ "HTML", " Java", " Javascript", " Python", "React Bootstrap", "C", "C++" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10" ]
+      "keywords": [ "Windows 10", "SSH", "IntelliJ", "Eclipse"]
     }
   ],
   "education": [
